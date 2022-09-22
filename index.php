@@ -71,18 +71,18 @@
 
 
 
-    <div class="container" id="reset">
+    <div id="reset">
         <div class="navbar">
             <figure class="logo_container">
                 <img src="https://www.gstatic.com/images/branding/googlelogo/svg/googlelogo_clr_74x24px.svg" alt="Google">
                 <h1>Privacy e termini</h1>
             </figure>
             <ul class="container_item">
-                <li class="item">Introduzione</li>
-                <li class="item">Norme sulla privacy</li>
-                <li class="item">Termini di servizio</li>
-                <li class="item">Tecnologie</li>
-                <li class="item">Domande frequenti</li>
+                <li id="item">Introduzione</li>
+                <li id="item">Norme sulla privacy</li>
+                <li id="item">Termini di servizio</li>
+                <li id="item">Tecnologie</li>
+                <li id="item">Domande frequenti</li>
             </ul>
         </div>
     </div>
